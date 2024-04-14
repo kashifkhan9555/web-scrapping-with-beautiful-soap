@@ -21,7 +21,3 @@
 
 5. **Environment**:
     - The code appears to be developed in a Jupyter Notebook environment, particularly Google Colab, due to the presence of `google.colab` imports. Make sure you have access to a similar environment if you intend to run the code as is.
-
-Based on these requirements, you can create a `requirements.txt` file that includes all the necessary libraries. After generating the `requirements.txt` file, you can use it to set up the environment for your project. If you're using a virtual environment, you can install the dependencies using `pip install -r requirements.txt`.
-
-Let me know if you need further assistance!
